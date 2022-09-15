@@ -20,7 +20,7 @@ const z5 = () =>{
         const passwordindu = `<td class='border px-4 py-2'>${entry.password}</td>`;
         const dobindu = `<td class='border px-4 py-2'>${entry.dob}</td>`;
         const acceptTermsindu = `<td class='border px-4 py-2'>${entry.acceptedTermsAndConditions}</td>`;
-        const rowindu = `<tr>${namesindu} ${emailindu} ${passwordindu} ${dobindu} ${acceptTermsindu}</tr>`;
+        const rowindu = `<tr>${nameindu} ${emailindu} ${passwordindu} ${dobindu} ${acceptTermsindu}</tr>`;
         return rowindu;
     }).join("\n");
     const table= `<table class="table-auto w-full"><tr>
