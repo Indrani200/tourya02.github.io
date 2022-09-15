@@ -1,5 +1,5 @@
 
-.containsidd{
+.containindu{
     max-width: 500px;
     margin:20px;
     padding:20px 40px;
@@ -7,7 +7,7 @@
     width:fit-content;
     background-color: rgb(255, 255, 255);
 }
-.contain{
+.contains{
   max-width: 850px;
   margin:25px;
   padding:25px 50px;
@@ -28,14 +28,14 @@
     display: table;
     clear: both;
   }
-  .sidd-25 {
+  .indu-25 {
     float: left;
     width: 30%;
     margin-top: 5px;
     
   }
   
-  .sidd-75 {
+  .indu-75 {
     float: left;
     width: 70%;
     margin-top: 5px;
